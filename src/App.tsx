@@ -36,7 +36,7 @@ function App() {
                 sprite: {
                     xScale: 1,
                     yScale: 1,
-                    texture: `${"src/assets/png/e-" + index + ".png"}`,
+                    texture: `${"/png/e-" + index + ".png"}`,
                 },
             },
         });
